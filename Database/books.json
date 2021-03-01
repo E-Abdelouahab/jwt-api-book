@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "603cef175cb44d695c924950"
+  },
+  "name": "abde",
+  "author": "avd",
+  "price": "gfd54"
+},{
+  "_id": {
+    "$oid": "603cef605cb44d695c924951"
+  },
+  "name": "Paoulo",
+  "author": "caho",
+  "price": "45$"
+},{
+  "_id": {
+    "$oid": "603cf8b7defcbf54d40e5a1d"
+  },
+  "name": "harry poter",
+  "author": "harry potry",
+  "price": "45$"
+}]
